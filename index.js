@@ -7,7 +7,6 @@ let newObj = {};
 for(let i=0; i<userArray.length;i++){
   newObj[arrayexample2[i]]=0
 }
-//newObj['2'] = 0;
 //console.log([...newMap.entries()]);
 
 for(let j of arrayexample3){
@@ -24,5 +23,5 @@ for(let j of arrayexample3){
   }
   console.log(undefined)
  
-  //console.log(newObj[userArray[i]])
+ 
   
